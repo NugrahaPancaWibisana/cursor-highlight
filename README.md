@@ -1,1 +1,2 @@
 # cursor-highlight
+SIMPLE CURSOR HIGHLIGHT WITH HTML CSS AND JS
